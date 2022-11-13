@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "KZ80-MSXMEM-rescue")(type "Legacy")(uri "/Users/kuninet/git/MyProject/KZ80-MSXMEM/KiCAD/KZ80-MSXMEM-rescue.lib")(options "")(descr ""))
+  (lib (name "w_logic")(type "Legacy")(uri "/Users/kuninet/git/MyProject/PC8001-I2C/KiCAD/w_logic.lib")(options "")(descr ""))
+  (lib (name "PC8001-I2C-rescue")(type "Legacy")(uri "/Users/kuninet/git/MyProject/PC8001-I2C/KiCAD/PC8001-I2C-rescue.lib")(options "")(descr ""))
+)
